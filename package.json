@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/juannjo/color-changer/issues"
   },
-  "homepage": "https://github.com/juannjo/color-changer#readme"
+  "homepage": "https://github.com/juannjo/color-changer#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
